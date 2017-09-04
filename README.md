@@ -1,0 +1,3 @@
+# Don't Do This
+
+This is purely intended as a proof of concept and should not be the way you reference includes. You are doing no-one a favour by doing it like this...

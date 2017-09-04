@@ -1,0 +1,22 @@
+{
+  "name": "crazy-typescript-module-resolution",
+  "version": "1.0.0",
+  "description": "Crazy TypesSript Module Resolution You Will Regret",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "build-watch": "tsc -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "react": "15.6.1",
+    "react-dom": "15.6.1"
+  },
+  "devDependencies": {
+    "@types/node": "8.0.26",
+    "@types/react": "16.0.5",
+    "@types/react-dom": "15.5.4",
+    "typescript": "2.5.2"
+  }
+}
